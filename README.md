@@ -22,3 +22,4 @@ createdeps
 finishdeps
 
 ### Video on how to finish the installation:
+https://youtu.be/gJ4q0difOww
