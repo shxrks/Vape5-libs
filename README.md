@@ -14,6 +14,7 @@ Continue the installers until finished.
 To clone the repo is the only way I can get working.
 How to clone the repo:
 https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+THE REPO IS CLONED TO YOUR USER PATH for e.x. C:\Users\%yourusername%\Vape5-libs
 
 Once done cloning, run the installer which you can find at: 
 And type the following commands:
